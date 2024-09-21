@@ -2,4 +2,5 @@ openai
 streamlit
 streamlit_extras
 PyPDF2
+dotenv
 
